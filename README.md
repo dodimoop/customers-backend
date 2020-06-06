@@ -1,6 +1,6 @@
 ### Customers Backend
 
-**Note: before you clone this project, you must clone this project `https://github.com/dodimoop/customers-frontend**
+**Note: After you clone this project, you must clone this project `https://github.com/dodimoop/customers-frontend**
 
 **Because this project is related to the `https://github.com/dodimoop/customers-frontend`** project.
 
