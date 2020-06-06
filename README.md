@@ -10,7 +10,7 @@
 3. Install all dependencies, with run `yarn` on your terminal
 4. Create schema on your local database SQL (you can use MySQLWorkbench) with name **thefthing**
 5. Make sure your database setting inside config.json file is the same as your local database configuration (on "development")
-5. Run `npx sequelize-cli db:migrate` on your terminal, this `sequelize-cli` used for create table to database thefthing
-6. Run `yarn dev` on your terminal and then open [http://localhost:5000](http://localhost:5000) to view it in the browser.
+6. Run `npx sequelize-cli db:migrate` on your terminal, this `sequelize-cli` used for create table to database thefthing
+7. Run `yarn dev` on your terminal and then open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 Thank you :)
