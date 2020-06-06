@@ -5,7 +5,7 @@
 **Because this project is related to the `https://github.com/dodimoop/customers-frontend`** project.
 
 **Follow the steps below:**
-1. You can clone this project (use HTTPS) and run `https://github.com/dodimoop/customers-backend.git` on your terminal
+1. You can clone this project (use HTTPS) and run `git clone https://github.com/dodimoop/customers-backend.git` on your terminal
 2. Move to inside project folder `cd customers-backend`
 3. Install all dependencies, with run `yarn` on your terminal
 4. Create schema on your database SQL (you can use MySQLWorkbench) with name **thefthing**
